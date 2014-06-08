@@ -1,0 +1,39 @@
+body {
+	text-align: center;
+	padding: 0 2em 1em;
+}
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: normal;
+	color: #F37B1D;
+	font-size: 4em;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	font-size: 2em;
+	color: #888;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+p {
+	font-size: 1.5em;
+}
+a.pure-button {
+	font-size: 1.5em;
+}
+div.social__container {
+	margin-top: 1em;
+}
+div.social__container a {
+	margin: 0 5px 5px;
+}
+img {
+	border: 5px solid #ccc;
+	border-radius: 2em;
+	margin-bottom: 1em;
+	width: 10em;
+	height: 10em;
+}
